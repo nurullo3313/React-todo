@@ -1,0 +1,66 @@
+.search-panel{
+    max-width: 1000px ;
+    margin: 0 auto;
+    background-color: #6262d4;
+    margin-top: 30px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.sotrudniki{
+    max-width: 1000px;
+    margin: 0 auto;
+    border: 1px solid #000;
+    padding: 20px;
+    margin-top: 30px;
+}
+.sotrudnik{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} 
+
+.sotrudnik h1{
+    margin: 0;
+}
+
+.inpusts{
+    display: flex;
+    gap: 20px;
+}
+
+.sotrudniki .sotrudnik .inpusts .coin{
+    color: gold;
+    background-color: gray;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.sotrudniki .sotrudnik .inpusts .aa{
+    color: rgb(138, 194, 140);
+    background-color: gray;
+    padding: 5px;
+    border-radius: 3px;
+}
+.sotrudniki .sotrudnik .inpusts .delete-btn{
+    color: red;
+    background-color: gray;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.sotrudniki .sotrudnik .inpusts .star{
+    color:gold;
+    background-color: gray;
+    padding: 5px;
+    border-radius: 3px;  
+}
+
+.sotrudniki .sotrudnik .inpusts .falseStar{
+    color:#FFF;
+    background-color: gray;
+    padding: 5px;
+    border-radius: 3px;  
+}
+
